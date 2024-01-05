@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakin Islam</h1>
 <h3 align="center">A passionate frontend & Backend developer from Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="center" alt="Coding" width="full" src="https://th.bing.com/th/id/R.cdc3f863a7d97ffc033ac5275b927f93?rik=%2bxh0mtDEcyYuDg&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakin790&label=Profile%20views&color=0e75b6&style=flat" alt="sakin790" /> </p>
 
