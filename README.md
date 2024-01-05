@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakin790" alt="sakin790" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS , MongoDB , GraphQL,Cloudnary ,React**
+- 🌱 I’m currently learning **NodeJS , MongoDB , GraphQL, Cloudnary , React**
 
 - 📝 I regularly write articles on [Linked.com](https://www.linkedin.com/in/sakin-islam-3a6a1029b/)
 
