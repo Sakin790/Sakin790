@@ -31,3 +31,43 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakin790&show_icons=true&locale=en" alt="sakin790" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakin790&" alt="sakin790" /></p>
+
+
+      
+     Md Sakin Islam
+     Phone :+88017 75 54 66 53 
+     Email : sakinislam79@gmail.com  
+     Rajshahi,Bangladesh
+Technology Summary 
+
+ • Programming          : JavaScript ,TypeScript, Java  
+ • Framework             : NodeJS ,ExpressJS, ReactJS ,MongoDB , Redis
+ • Serverless              : Firebase , Appwrite
+ • Design                    : TailwindCSS , HTML, CSS
+ • Version-Control      : Git-Github
+ • System                   : Windows
+About Me
+
+
+
+
+
+
+Experience
+
+➤ I Have been coding since 2.5 years, I enjoy it a lot , I’m continuously  Learning Web Development , I like to explore new things
+
+
+
+
+
+
+
+
+  
+Education
+
+ ➤ Honours       :    Dept of Accounting   • 2022-2023 Season   • NS Goverment College
+ ➤ HSC             :    Science                     • 2018-2019 Season   •  BGC 
+
+
