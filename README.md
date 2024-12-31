@@ -1,20 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sakin Islam</h1>
-<h3 align="center">A passionate Learner</h3>
+<h1 align="center">Greetings! I'm OrcDev</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakin790&label=Profile%20views&color=0e75b6&style=flat" alt="sakin790" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakin790" alt="sakin790" /></a> </p>
-
-- 🌱 I’m currently learning **NodeJS , MongoDB , GraphQL, Cloudnary , React**
-
-- 📝 I regularly write articles on [Linked.com](https://www.linkedin.com/in/sakin-islam-3a6a1029b/)
-
-- 💬 Ask me about **react , Express, JavaScript**
-
-- 📫 How to reach me **sakinislam79@gmail.com**
-
-- ⚡ Fun fact **Eat code sleep repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +8,8 @@
 <a href="https://discord.gg/sakin islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sakin islam" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakin790&show_icons=true&locale=en&layout=compact" alt="sakin790" /></p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,nodejs,express,aws,docker,vue,pinia,tailwind,jenkins,ubuntu,mysql,mongo,&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakin790&show_icons=true&locale=en" alt="sakin790" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakin790&" alt="sakin790" /></p>
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,nestjs,tailwind,php&theme=dark)](https://skillicons.dev#gh-light-mode-only)
