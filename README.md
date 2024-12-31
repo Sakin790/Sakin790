@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! I'm OrcDev</h1>
+<h1 align="center">Greetings! I'm Sakin</h1>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -12,4 +12,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,golang,nodejs,express,aws,docker,vue,pinia,tailwind,jenkins,ubuntu,mysql,mongo,&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,nestjs,tailwind,php&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,nodejs,express,aws,docker,vue,pinia,tailwind,jenkins,ubuntu,mysql,mongo&theme=dark)](https://skillicons.dev#gh-light-mode-only)
