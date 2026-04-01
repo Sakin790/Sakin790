@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://wa.me/8801775546653" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=whatsapp" height="30" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40" />
 </a>
 
 </p>
