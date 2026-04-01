@@ -8,10 +8,4 @@
 <a href="https://discord.gg/sakin islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sakin islam" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,nodejs,express,aws,docker,rabbitmq,vue,pinia,tailwind,jenkins,ubuntu,mysql,mongo,redis&theme=light)](https://skillicons.dev#gh-dark-mode-only)
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,nodejs,express,aws,docker,rabbitmq,vue,pinia,tailwind,jenkins,ubuntu,mysql,mongo,redis&theme=dark)](https://skillicons.dev#gh-light-mode-only)
-
 
